@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\BobsTypesChallenge\bin\Debug\BobsTypesChallenge.exe.config
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\BobsTypesChallenge\bin\Debug\BobsTypesChallenge.exe
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\BobsTypesChallenge\bin\Debug\BobsTypesChallenge.pdb
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\BobsTypesChallenge\obj\Debug\BobsTypesChallenge.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\BobsTypesChallenge\obj\Debug\BobsTypesChallenge.exe
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\BobsTypesChallenge\obj\Debug\BobsTypesChallenge.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variable_BobPractice", "Var
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfDecisionBobPractice", "IfDecisionBobPractice\IfDecisionBobPractice.csproj", "{6BAC190F-5C28-4643-89F8-B44E64D4E46C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobsTypesChallenge", "BobsTypesChallenge\BobsTypesChallenge.csproj", "{DEA74C12-7BE4-489F-8875-08D75AF14748}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6BAC190F-5C28-4643-89F8-B44E64D4E46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BAC190F-5C28-4643-89F8-B44E64D4E46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BAC190F-5C28-4643-89F8-B44E64D4E46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA74C12-7BE4-489F-8875-08D75AF14748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA74C12-7BE4-489F-8875-08D75AF14748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA74C12-7BE4-489F-8875-08D75AF14748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA74C12-7BE4-489F-8875-08D75AF14748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
