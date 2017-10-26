@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\IfDecisionBobPractice\bin\Debug\IfDecisionBobPractice.exe.config
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\IfDecisionBobPractice\bin\Debug\IfDecisionBobPractice.exe
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\IfDecisionBobPractice\bin\Debug\IfDecisionBobPractice.pdb
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\IfDecisionBobPractice\obj\Debug\IfDecisionBobPractice.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\IfDecisionBobPractice\obj\Debug\IfDecisionBobPractice.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\IfDecisionBobPractice\obj\Debug\IfDecisionBobPractice.exe
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\IfDecisionBobPractice\obj\Debug\IfDecisionBobPractice.pdb

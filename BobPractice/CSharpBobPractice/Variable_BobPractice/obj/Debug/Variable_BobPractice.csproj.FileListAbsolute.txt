@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\Variable_BobPractice\bin\Debug\Variable_BobPractice.exe.config
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\Variable_BobPractice\bin\Debug\Variable_BobPractice.exe
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\Variable_BobPractice\bin\Debug\Variable_BobPractice.pdb
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\Variable_BobPractice\obj\Debug\Variable_BobPractice.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\Variable_BobPractice\obj\Debug\Variable_BobPractice.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\Variable_BobPractice\obj\Debug\Variable_BobPractice.exe
+C:\DotNetProjects\CSharpLibrary\BobPractice\CSharpBobPractice\Variable_BobPractice\obj\Debug\Variable_BobPractice.pdb
