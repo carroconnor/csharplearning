@@ -64,3 +64,9 @@ header{
 	text-align: center;
 	font-size: 25;
 }
+.flat {
+  color: #fff;
+  background-color: #6496c8;
+  text-shadow: -1px 1px #417cb8;
+  border: none;
+}
