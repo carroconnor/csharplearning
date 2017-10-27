@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_ClassesChallenge", "0.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_ObjectChallengesAnswers", "0.09_ObjectChallengesAnswers\0.09_ObjectChallengesAnswers.csproj", "{6DAFFD95-E283-4D46-8F7D-E76E7B7F9133}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_ArrayChallenge", "0.10_ArrayChallenge\0.10_ArrayChallenge.csproj", "{AB054243-0810-4B55-A205-69D861976833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_CollectionsDictionaries", "0.11_CollectionsDictionaries\0.11_CollectionsDictionaries.csproj", "{AB7769C7-F9E6-4603-BA6E-2416C2F62BBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{6DAFFD95-E283-4D46-8F7D-E76E7B7F9133}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DAFFD95-E283-4D46-8F7D-E76E7B7F9133}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DAFFD95-E283-4D46-8F7D-E76E7B7F9133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB054243-0810-4B55-A205-69D861976833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB054243-0810-4B55-A205-69D861976833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB054243-0810-4B55-A205-69D861976833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB054243-0810-4B55-A205-69D861976833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7769C7-F9E6-4603-BA6E-2416C2F62BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7769C7-F9E6-4603-BA6E-2416C2F62BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7769C7-F9E6-4603-BA6E-2416C2F62BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7769C7-F9E6-4603-BA6E-2416C2F62BBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
