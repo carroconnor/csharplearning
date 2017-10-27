@@ -1,0 +1,66 @@
+body{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Mogra', cursive;
+	background-color: #e8e8e8;
+}
+
+header{
+	font-weight: bold;
+}
+#title{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 30px;
+}
+#logo
+{
+	height: 62px;
+	width:62px;
+	border-radius: 10px;
+	float:left;	
+	margin-right: 10px;
+}
+#saw
+{
+	height: 400px;
+	width: 1000px;
+	float: center;
+
+
+}
+#main-header {
+	height:80px;
+}
+#header-name {
+	font-size: 30px;
+	color: black;
+	padding: 15px;
+	margin: 8px 0px 0px 0px;
+} 
+#search{
+	float: right;
+	padding: 5px;
+	margin: 10px 10px 0px 0px;
+}
+#midleft{
+	float: left;
+	height: 300px;
+	width: 500px;
+}
+#midright{
+	float: right;
+	width: 500px;
+	height: 300px;
+	text-align: center;
+
+}
+.divheading
+{
+	text-align: center;
+	font-size: 25;
+}
