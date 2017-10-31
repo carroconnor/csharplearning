@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.16_InheritanceApplication
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.17_EnumApplication", "0.17_EnumApplication\0.17_EnumApplication.csproj", "{B5F001DB-6F7C-48BA-BAB7-930DCD65CE1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.18_OOP_Game_Build", "0.18_OOP_Game_Build\0.18_OOP_Game_Build.csproj", "{3855DEB8-D1AA-4531-8FA1-273211628FCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{B5F001DB-6F7C-48BA-BAB7-930DCD65CE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5F001DB-6F7C-48BA-BAB7-930DCD65CE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5F001DB-6F7C-48BA-BAB7-930DCD65CE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3855DEB8-D1AA-4531-8FA1-273211628FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3855DEB8-D1AA-4531-8FA1-273211628FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3855DEB8-D1AA-4531-8FA1-273211628FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3855DEB8-D1AA-4531-8FA1-273211628FCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
