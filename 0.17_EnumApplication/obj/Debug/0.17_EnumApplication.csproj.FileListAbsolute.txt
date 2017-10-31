@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\0.17_EnumApplication\bin\Debug\0.17_EnumApplication.exe.config
+C:\DotNetProjects\CSharpLibrary\0.17_EnumApplication\bin\Debug\0.17_EnumApplication.exe
+C:\DotNetProjects\CSharpLibrary\0.17_EnumApplication\bin\Debug\0.17_EnumApplication.pdb
+C:\DotNetProjects\CSharpLibrary\0.17_EnumApplication\obj\Debug\0.17_EnumApplication.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.17_EnumApplication\obj\Debug\0.17_EnumApplication.exe
+C:\DotNetProjects\CSharpLibrary\0.17_EnumApplication\obj\Debug\0.17_EnumApplication.pdb

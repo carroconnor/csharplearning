@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.16_InheritanceApplication\bin\Debug\0.16_InheritanceApplication.exe.config
+C:\DotNetProjects\CSharpLibrary\0.16_InheritanceApplication\bin\Debug\0.16_InheritanceApplication.exe
+C:\DotNetProjects\CSharpLibrary\0.16_InheritanceApplication\bin\Debug\0.16_InheritanceApplication.pdb
+C:\DotNetProjects\CSharpLibrary\0.16_InheritanceApplication\obj\Debug\0.16_InheritanceApplication.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\0.16_InheritanceApplication\obj\Debug\0.16_InheritanceApplication.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.16_InheritanceApplication\obj\Debug\0.16_InheritanceApplication.exe
+C:\DotNetProjects\CSharpLibrary\0.16_InheritanceApplication\obj\Debug\0.16_InheritanceApplication.pdb
