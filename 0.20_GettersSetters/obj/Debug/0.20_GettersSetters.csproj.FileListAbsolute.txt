@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.20_GettersSetters\bin\Debug\0.20_GettersSetters.exe.config
+C:\DotNetProjects\CSharpLibrary\0.20_GettersSetters\bin\Debug\0.20_GettersSetters.exe
+C:\DotNetProjects\CSharpLibrary\0.20_GettersSetters\bin\Debug\0.20_GettersSetters.pdb
+C:\DotNetProjects\CSharpLibrary\0.20_GettersSetters\obj\Debug\0.20_GettersSetters.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\0.20_GettersSetters\obj\Debug\0.20_GettersSetters.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.20_GettersSetters\obj\Debug\0.20_GettersSetters.exe
+C:\DotNetProjects\CSharpLibrary\0.20_GettersSetters\obj\Debug\0.20_GettersSetters.pdb
