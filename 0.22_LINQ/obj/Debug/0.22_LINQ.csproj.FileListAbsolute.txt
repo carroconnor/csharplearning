@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.22_LINQ\bin\Debug\0.22_LINQ.exe.config
+C:\DotNetProjects\CSharpLibrary\0.22_LINQ\bin\Debug\0.22_LINQ.exe
+C:\DotNetProjects\CSharpLibrary\0.22_LINQ\bin\Debug\0.22_LINQ.pdb
+C:\DotNetProjects\CSharpLibrary\0.22_LINQ\obj\Debug\0.22_LINQ.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.22_LINQ\obj\Debug\0.22_LINQ.exe
+C:\DotNetProjects\CSharpLibrary\0.22_LINQ\obj\Debug\0.22_LINQ.pdb
+C:\DotNetProjects\CSharpLibrary\0.22_LINQ\obj\Debug\0.22_LINQ.csprojResolveAssemblyReference.cache
