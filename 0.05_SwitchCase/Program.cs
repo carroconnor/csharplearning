@@ -10,7 +10,7 @@ namespace _0._05_SwitchCase
     {
         static void Main(string[] args)
         {
-            string friend = "Jay";
+            string friend = "Tommy";
 
             switch (friend)
             {       
@@ -23,11 +23,33 @@ namespace _0._05_SwitchCase
                 case "Kenn":
                     Console.WriteLine("I don't know you");
                     break;
-
-                   
-              
+                case "Carr":
+                    Console.WriteLine("Coolest dude ever");
+                    break;
+                case "Tommy":
+                    Console.WriteLine("Dumbest dude ever");
+                    break;
             }
-             
+
+            int age = 25;
+
+            switch (age)
+            {
+                case 25:
+                    Console.WriteLine("Man youre old.");
+                    break;
+            }
+
+            string friends = "Matt";
+
+            switch (friends)
+            {
+                case "Matt":
+                    Console.WriteLine("Very Smart guy, Matt.");
+                    break; 
+            }
+
+            Console.ReadLine();
         }
     }
 }

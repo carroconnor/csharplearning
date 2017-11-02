@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.26_FizzBuzz\bin\Debug\0.26_FizzBuzz.exe.config
+C:\DotNetProjects\CSharpLibrary\0.26_FizzBuzz\bin\Debug\0.26_FizzBuzz.exe
+C:\DotNetProjects\CSharpLibrary\0.26_FizzBuzz\bin\Debug\0.26_FizzBuzz.pdb
+C:\DotNetProjects\CSharpLibrary\0.26_FizzBuzz\obj\Debug\0.26_FizzBuzz.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\0.26_FizzBuzz\obj\Debug\0.26_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.26_FizzBuzz\obj\Debug\0.26_FizzBuzz.exe
+C:\DotNetProjects\CSharpLibrary\0.26_FizzBuzz\obj\Debug\0.26_FizzBuzz.pdb

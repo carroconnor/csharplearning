@@ -10,10 +10,19 @@ namespace _0._06_ForLoops
     {
         static void Main(string[] args)
         {
-            donut jellyDonut = new donut() 
+            for (int i = 0; i <= 10; i++)
+            {
+                Console.WriteLine(i);
+            }
 
-            jellyDonut.
-        }
+            for (int i = 50; i <= 1000; i++)
+            {
+                Console.WriteLine(i);
+            }
+            Console.ReadLine();
+
+
+        }   
 
 
     }

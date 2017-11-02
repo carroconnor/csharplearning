@@ -17,17 +17,16 @@ namespace _0._12Constructors
             //jayStudent.Grade = 1;
             //jayStudent.Age = 5;
 
-            student jenn = new student("Jenn");
+            student kendreaStudent = new student("Kendrea");
 
-            student carr = new student("OConnor, 8");
+            student johnStudent = new student("OConnor", 5);
+
+            student carrStudent = new student("Carr", "OConnor", 8);
 
             student jayStudent = new student("Jay", "Jackson", 5, 1);
 
-
-
-            
-
-
+            Console.WriteLine(jayStudent.Age + jayStudent.FirstName);
+            Console.ReadLine();
 
         }
     }

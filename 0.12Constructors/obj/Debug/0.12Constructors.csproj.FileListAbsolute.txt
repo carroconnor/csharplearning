@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.12Constructors\bin\Debug\0.12Constructors.exe.config
+C:\DotNetProjects\CSharpLibrary\0.12Constructors\bin\Debug\0.12Constructors.exe
+C:\DotNetProjects\CSharpLibrary\0.12Constructors\bin\Debug\0.12Constructors.pdb
+C:\DotNetProjects\CSharpLibrary\0.12Constructors\obj\Debug\0.12Constructors.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\0.12Constructors\obj\Debug\0.12Constructors.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.12Constructors\obj\Debug\0.12Constructors.exe
+C:\DotNetProjects\CSharpLibrary\0.12Constructors\obj\Debug\0.12Constructors.pdb

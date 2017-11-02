@@ -10,20 +10,42 @@ namespace _0._07_Objects
     {
         static void Main(string[] args)
         {
-            Donut jellyDonut = new Donut();
-            Donut kennDonut = new Donut();
+            Donut carrDonut = new Donut();
+            Donut chrisDonut = new Donut();
+            Donut nickDonut = new Donut();
 
-            kennDonut.Filling = "Strawberry Jelly";
-            kennDonut.Price = 0;
-            kennDonut.Type = "Jelly";
-            kennDonut.IsSpecial = false;
+            carrDonut.Filling = "cherry";
+            carrDonut.Price = 3;
+            carrDonut.Type = "normal";
+            carrDonut.IsSpecial = true;
 
-            jellyDonut.Filling = "Cherry Jelly";
-            jellyDonut.Price = 7.99M;
-            jellyDonut.Type = "Jelly";
-            jellyDonut.IsSpecial = true;
+            chrisDonut.Filling = "chocolate";
+            chrisDonut.Price = 2;
+            chrisDonut.Type = "small";
+            chrisDonut.IsSpecial = false;
 
-            Console.WriteLine(jellyDonut);
+            nickDonut.Filling = "cherry";
+            nickDonut.Price = 5;
+            nickDonut.Type = "normal";
+            nickDonut.IsSpecial = true;
+
+            Console.WriteLine(nickDonut);
+
+            
+            //Donut jellyDonut = new Donut();
+            //Donut kennDonut = new Donut();
+
+            //kennDonut.Filling = "Strawberry Jelly";
+            //kennDonut.Price = 0;
+            //kennDonut.Type = "Jelly";
+            //kennDonut.IsSpecial = false;
+
+            //jellyDonut.Filling = "Cherry Jelly";
+            //jellyDonut.Price = 7.99M;
+            //jellyDonut.Type = "Jelly";
+            //jellyDonut.IsSpecial = true;
+
+            //Console.WriteLine(jellyDonut);
             Console.ReadLine();
         }
 

@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\BankAcctExample\bin\Debug\BankAcctExample.exe.config
+C:\DotNetProjects\CSharpLibrary\BankAcctExample\bin\Debug\BankAcctExample.exe
+C:\DotNetProjects\CSharpLibrary\BankAcctExample\bin\Debug\BankAcctExample.pdb
+C:\DotNetProjects\CSharpLibrary\BankAcctExample\obj\Debug\BankAcctExample.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\BankAcctExample\obj\Debug\BankAcctExample.exe
+C:\DotNetProjects\CSharpLibrary\BankAcctExample\obj\Debug\BankAcctExample.pdb

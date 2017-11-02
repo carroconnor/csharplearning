@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\0.27_Interfaces_Collection_Pseudocode\bin\Debug\0.27_Interfaces_Collection_Pseudocode.exe.config
+C:\DotNetProjects\CSharpLibrary\0.27_Interfaces_Collection_Pseudocode\bin\Debug\0.27_Interfaces_Collection_Pseudocode.exe
+C:\DotNetProjects\CSharpLibrary\0.27_Interfaces_Collection_Pseudocode\bin\Debug\0.27_Interfaces_Collection_Pseudocode.pdb
+C:\DotNetProjects\CSharpLibrary\0.27_Interfaces_Collection_Pseudocode\obj\Debug\0.27_Interfaces_Collection_Pseudocode.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.27_Interfaces_Collection_Pseudocode\obj\Debug\0.27_Interfaces_Collection_Pseudocode.exe
+C:\DotNetProjects\CSharpLibrary\0.27_Interfaces_Collection_Pseudocode\obj\Debug\0.27_Interfaces_Collection_Pseudocode.pdb
