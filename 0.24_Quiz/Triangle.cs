@@ -8,15 +8,29 @@ namespace _0._24_Quiz
 {
     class Triangle : Shape
     {
-        public Triangle()
+        //Constructor
+        public Triangle(int tbase, int theight)
         {
-            public int Tbase { get; set; };
-        public int THeight { get; set; };
+            this.TBase = tbase;
+            this.THeight = theight;
+        }
+
+        //Properties
+        public int TBase { get; set; }
+        public int THeight { get; set; }
+        public double TArea { get; set; }
+
+        //Methods
+        public override double Area()
+        {
+            this.TArea = this.TBase * this.THeight / 2.0;
+            return this.TArea;
+        }
     }
 
-        public int Area { get; set; };
+        
 }
-}
+
 
 
 
