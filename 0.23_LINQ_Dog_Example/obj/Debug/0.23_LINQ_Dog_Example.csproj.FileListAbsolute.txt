@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.23_LINQ_Dog_Example\bin\Debug\0.23_LINQ_Dog_Example.exe.config
+C:\DotNetProjects\CSharpLibrary\0.23_LINQ_Dog_Example\bin\Debug\0.23_LINQ_Dog_Example.exe
+C:\DotNetProjects\CSharpLibrary\0.23_LINQ_Dog_Example\bin\Debug\0.23_LINQ_Dog_Example.pdb
+C:\DotNetProjects\CSharpLibrary\0.23_LINQ_Dog_Example\obj\Debug\0.23_LINQ_Dog_Example.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\0.23_LINQ_Dog_Example\obj\Debug\0.23_LINQ_Dog_Example.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.23_LINQ_Dog_Example\obj\Debug\0.23_LINQ_Dog_Example.exe
+C:\DotNetProjects\CSharpLibrary\0.23_LINQ_Dog_Example\obj\Debug\0.23_LINQ_Dog_Example.pdb
