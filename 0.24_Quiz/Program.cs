@@ -41,16 +41,27 @@ namespace _0._24_Quiz
             triFour.Area();
             triFive.Area();
 
-            string[] triobj = { "triTwo", "triThree", "triFour", "triFive" };
-
-            IEnumerable<double> query = from i in triobj
-                                        where i.Select=2
-                                        select i;
-
-            foreach (var Area in triobj)
+            IEnumerable<Triangle> triangles = new List<Triangle>
             {
-                Console.WriteLine(triobj);
+                triOne,
+                triTwo,
+                triThree,
+                triFour,
+                triFive
+               
+            };
+
+            IEnumerable<Triangle> query = from t in triangles
+                                          where t.TArea > 4
+                                          orderby t.TArea ascending
+                                          select t;
+
+            foreach (Triangle triangle in query)
+            {
+                Console.WriteLine(triangle.TArea);
             }
+
+
 
             Console.ReadLine();
 
