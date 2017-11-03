@@ -10,16 +10,32 @@ namespace _0._10_ArrayChallenge
     {
         static void Main(string[] args)
         {
-            //string[] food = new string[3];
-            //food[0] = "pasta";
-            //food[1] = "pizza";
-            //food[2] = "cereal";
+            //string[] food = new string[4];
+            //food[0] = "macaroni";
+            //food[1] = "pasta";
+            //food[2] = "pizza";
+            //food[3] = "popcorn";
 
-            //foreach (string a in food)
-            //Console.WriteLine(a);
-            //Console.ReadLine();
+            //foreach (string foods in food)
+            //{
+            //    Console.WriteLine(foods);
+            //}
 
-            //SILVER
+
+            //////SILVER
+
+            //int[] integer = new int[5] { 5, 4, 3, 2, 1 };
+            //int[] integer2 = new int[5] { 10, 40, 50, 20, 40 };
+            //int[] integer3 = new int[5];
+
+            //for (int i = 0; i < integer3.Length; i++)
+            //{
+            //    integer3[i] = integer[i] + integer2[i];
+            //    Console.WriteLine(integer3.Length);
+            //}
+
+
+            //    Console.ReadLine();
 
             //int[] number = new int[5] { 3, 4, 4, 5, 5 };
 
@@ -52,7 +68,7 @@ namespace _0._10_ArrayChallenge
             {
                 Console.WriteLine(number);
                 Console.ReadLine();
-                
+
             }
 
 
