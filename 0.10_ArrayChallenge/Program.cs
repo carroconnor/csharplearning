@@ -57,19 +57,34 @@ namespace _0._10_ArrayChallenge
 
             // Gold Challenge
 
-            int[] randsomNumbers = new int[10];
+            int[] randomNumber = new int[10];
             Random rnd = new Random();
 
-            for (int i = 0; i < randsomNumbers.Length; i++)
+            for (int i = 0; i < randomNumber.Length; i++)
             {
-                randsomNumbers[i] = rnd.Next();
+                randomNumber[i] = rnd.Next();
             }
-            foreach (int number in randsomNumbers)
+            foreach (int number in randomNumber)
             {
                 Console.WriteLine(number);
-                Console.ReadLine();
-
             }
+
+            
+            Console.ReadLine();
+            
+            //int[] randsomNumbers = new int[10];
+            //Random rnd = new Random();
+
+            //for (int i = 0; i < randsomNumbers.Length; i++)
+            //{
+            //    randsomNumbers[i] = rnd.Next();
+            //}
+            //foreach (int number in randsomNumbers)
+            //{
+            //    Console.WriteLine(number);
+            //    Console.ReadLine();
+
+            //}
 
 
 

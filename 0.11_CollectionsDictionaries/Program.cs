@@ -10,33 +10,56 @@ namespace _0._11_CollectionsDictionaries
     {
         static void Main(string[] args)
         {
-            //Dictionary<string, string> awardwinners = new Dictionary<string, string>();
+            //Dictionary<string, string> webster = new Dictionary<string, string>();
+            //webster.Add("webster", "2001");       
+            //webster.Add("webster", "2003");
+            //webster.Add("webster", "2004");
 
-            //awardwinners.Add("Gladiators", "2000");
-            //awardwinners.Add("A beautiful mind", "2001");
-            //awardwinners.Add("Chicago", "2002");
-            //awardwinners.Add("The Lord of the Rings", "2003");
-            //awardwinners.Add("Million Dollar Baby", "2004");
-            //awardwinners.Add("Ratataouli", "2005");
-
-            //foreach (var movie in awardwinners)
+            //foreach (var list in webster)
             //{
-            //    Console.WriteLine(movie);
+            //    Console.WriteLine(webster);
+            //}
+            //Console.ReadLine(); 
+
+            Dictionary<string, string> awardwinners = new Dictionary<string, string>();
+
+            awardwinners.Add("Gladiators", "2000");
+            awardwinners.Add("A beautiful mind", "2001");
+            awardwinners.Add("Chicago", "2002");
+            awardwinners.Add("The Lord of the Rings", "2003");
+            awardwinners.Add("Million Dollar Baby", "2004");
+            awardwinners.Add("Ratataouli", "2005");
+
+            foreach (var movie in awardwinners)
+            {
+                Console.WriteLine(movie);
+            }
+            Console.ReadLine();
+
+            Dictionary<string, string> webster = new Dictionary<string, string>();
+            webster.Add("webster", "2001");
+            webster.Add("webster", "2003");
+            webster.Add("webster", "2004");
+
+            foreach (var list in webster)
+            {
+                Console.WriteLine(webster);
+            }
+            Console.ReadLine();
+
+            //Dictionary<string, string[]> awardNominees = new Dictionary<string, string[]>()
+            //{
+            //    {"2006", new string[] {"Happy Feet", "Cars", "Monster House" } },
+            //    {"2007", new string[] {"Rataouille", "Persepolis", "Surfs Up"} },
+
+            //};
+
+            //foreach (var nominee in awardNominees)
+            //{
+            //    Console.WriteLine($"Nominees for {nominee.Key}: {nominee.Value[0]}, {nominee.Value[1]}");
             //}
 
-            Dictionary<string, string[]> awardNominees = new Dictionary<string, string[]>()
-            {
-                {"2006", new string[] {"Happy Feet", "Cars", "Monster House" } },
-                {"2007", new string[] {"Rataouille", "Persepolis", "Surfs Up"} },
-
-            };
-
-            foreach (var nominee in awardNominees)
-            {
-                Console.WriteLine($"Nominees for {nominee.Key}: {nominee.Value[0]}, {nominee.Value[1]}");
-            }
-
-            Console.ReadLine();
+            //Console.ReadLine();
 
         }
     }
