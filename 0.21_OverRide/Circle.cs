@@ -1,15 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _0._21_OverRide
 {
     class Circle : Shape
     {
         //Constructor
-        public Circle (int radius)
+        public Circle(int radius)
         {
             this.Radius = radius;
         }
@@ -18,10 +14,7 @@ namespace _0._21_OverRide
         //Method
         public override double Area()
         {
-            return Math.PI*(Math.Pow(this.Radius, 2));
+            return Math.PI * (Math.Pow(this.Radius, 2));
         }
-
-
-
     }
 }

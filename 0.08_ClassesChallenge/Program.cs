@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _0._08_ClassesChallenge
 {
@@ -10,12 +6,9 @@ namespace _0._08_ClassesChallenge
     {
         static void Main(string[] args)
         {
-
-
             Netflix mindhunters = new Netflix();
             Netflix strangerthings = new Netflix();
             Netflix office = new Netflix();
-
 
             mindhunters.Genre = "Psychological thriller";
             strangerthings.Genre = "Psychological thriller";
@@ -41,14 +34,8 @@ namespace _0._08_ClassesChallenge
             HomeAlone.Rating = 3;
             HomeAlone.Year = 1993;
 
-
             Console.WriteLine($"The genre of Home Alone is {HomeAlone.Genre}");
             Console.ReadLine();
-
-            
-
-           
-
         }
     }
 }

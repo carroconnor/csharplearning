@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Speech.Synthesis;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace _0._18_OOP_Game_Build
 {
@@ -12,10 +8,8 @@ namespace _0._18_OOP_Game_Build
     {
         static void Main(string[] args)
         {
-            //This will be used later
             SpeechSynthesizer synth = new SpeechSynthesizer();
 
-            //Prompt for player in formation
             Console.WriteLine("Hello wanderer...\n" +
                 "What be thy name?");
             string inputName = Console.ReadLine();
@@ -33,17 +27,12 @@ namespace _0._18_OOP_Game_Build
                 "4: Vampire\n" +
                 "5: Bovine Frog");
 
-            //get user input, translate it to int
             int specInt = Int32.Parse(Console.ReadLine());
-
-            //Perform explicit cast from
-            //int to Specialization enum type
 
             Player.Specialization inputSpecialization = (Player.Specialization)specInt;
 
             Console.WriteLine($"Ahh... a {inputSpecialization}, an interesting choice.");
 
-            //create new player object
             Player hero = new Player(inputName, inputSpecialization);
 
             Console.Clear();
@@ -78,7 +67,6 @@ namespace _0._18_OOP_Game_Build
                 int inputAction = Int32.Parse(Console.ReadLine());
                 Player.Action heroAction = (Player.Action)inputAction;
 
-                //Handle hero action
                 switch (heroAction)
                 {
                     case Player.Action.Attack:

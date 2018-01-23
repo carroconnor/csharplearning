@@ -1,8 +1,4 @@
-﻿ using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 
 namespace _0._22_Inheritance
 {
@@ -56,10 +52,7 @@ namespace _0._22_Inheritance
             catty.PrintBase();
             catty.Meow();
 
-
             Console.ReadLine();
-
-
         }
     }
 }

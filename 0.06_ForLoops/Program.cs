@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _0._06_ForLoops
 {
@@ -20,29 +16,24 @@ namespace _0._06_ForLoops
                 Console.WriteLine(i);
             }
             Console.ReadLine();
-
-
-        }   
-
-
+        }
     }
-
 }
 
 
 
 
- 
 
 
 
 
 
 
-    
-        
 
- 
 
-    
+
+
+
+
+
 

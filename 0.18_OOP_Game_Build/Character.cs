@@ -1,17 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _0._18_OOP_Game_Build
 {
     public abstract class Character
     {
-        //Constants
         const int MIN_HEALTH = 0;
 
-        //Properties
         public string Name { get; set; }
         public bool IsAlive { get; set; }
         public int Level { get; set; }
@@ -20,7 +14,6 @@ namespace _0._18_OOP_Game_Build
         public int Energy { get; set; }
         public double CritChance { get; set; }
 
-        //Methods
         public double Attack()
         {
             Random rnd = new Random();
@@ -28,14 +21,14 @@ namespace _0._18_OOP_Game_Build
             int damage = this.AttackPower + spread;
             bool isCrit = IsCritical();
 
-            return isCrit ? damage*2 : damage;
+            return isCrit ? damage * 2 : damage;
         }
 
         public bool IsCritical()
         {
             Random rnd = new Random();
             bool isCrit = rnd.Next(0, 101) < (this.CritChance * 100) ? true : false;
-            return isCrit; 
+            return isCrit;
         }
     }
 }

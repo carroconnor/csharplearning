@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _0._18_OOP_Game_Build
+﻿namespace _0._18_OOP_Game_Build
 {
     class Player : Character
     {
@@ -18,14 +12,11 @@ namespace _0._18_OOP_Game_Build
             this.Level = 1;
             this.AttackPower = 10;
             this.CritChance = 0.10;
-
         }
 
-        //Properties
         public Specialization Role { get; set; }
         public string Name { get; set; }
 
-        //Enums
         public enum Specialization
         {
             HorseMange,

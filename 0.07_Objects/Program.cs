@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _0._07_Objects
 {
@@ -31,7 +27,7 @@ namespace _0._07_Objects
 
             Console.WriteLine(nickDonut);
 
-            
+
             //Donut jellyDonut = new Donut();
             //Donut kennDonut = new Donut();
 
@@ -48,6 +44,5 @@ namespace _0._07_Objects
             //Console.WriteLine(jellyDonut);
             Console.ReadLine();
         }
-
     }
 }

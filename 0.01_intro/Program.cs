@@ -12,7 +12,6 @@ namespace _0._01_intro
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
-        
         }
     }
 

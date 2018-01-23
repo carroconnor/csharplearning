@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _0._04_StringChallenge
 {
@@ -15,12 +11,6 @@ namespace _0._04_StringChallenge
             //fname = "Carr";
             //lname = "OConnor";
 
-           
-
-            
-
-
-
             ////BRONZE
             //double cash = 563.32;
             //Console.WriteLine("{0:C}", cash);
@@ -30,7 +20,7 @@ namespace _0._04_StringChallenge
             //int phoneNumber = 1234567890;
             //Console.WriteLine("{0:(###) ### - ####}", phoneNumber);
             //Console.ReadLine();
-                
+
             string country = "USA";
             Console.WriteLine(country);
 
@@ -46,11 +36,6 @@ namespace _0._04_StringChallenge
 
             Console.WriteLine(numAge);
             Console.ReadLine();
-        
-
-
-
-
         }
     }
 }

@@ -1,17 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _0._20_GettersSetters
 {
     class Employee
     {
-        //public int ID { get; set; }
-        //public string Name { get; set; }
-
-        //Fields
         private int _id;
         private string _name;
 
@@ -29,7 +21,7 @@ namespace _0._20_GettersSetters
             }
         }
 
-        
+
 
         public string Name
         {
@@ -44,10 +36,5 @@ namespace _0._20_GettersSetters
                 _name = value.Trim();
             }
         }
-
-
-
-
-
     }
 }
