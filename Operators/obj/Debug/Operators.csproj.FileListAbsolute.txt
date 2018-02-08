@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\Operators\bin\Debug\Operators.exe.config
+C:\DotNetProjects\CSharpLibrary\Operators\bin\Debug\Operators.exe
+C:\DotNetProjects\CSharpLibrary\Operators\bin\Debug\Operators.pdb
+C:\DotNetProjects\CSharpLibrary\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\Operators\obj\Debug\Operators.exe
+C:\DotNetProjects\CSharpLibrary\Operators\obj\Debug\Operators.pdb

@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\Forforeachloops\bin\Debug\Forforeachloops.exe.config
+C:\DotNetProjects\CSharpLibrary\Forforeachloops\bin\Debug\Forforeachloops.exe
+C:\DotNetProjects\CSharpLibrary\Forforeachloops\bin\Debug\Forforeachloops.pdb
+C:\DotNetProjects\CSharpLibrary\Forforeachloops\obj\Debug\Forforeachloops.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\Forforeachloops\obj\Debug\Forforeachloops.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\Forforeachloops\obj\Debug\Forforeachloops.exe
+C:\DotNetProjects\CSharpLibrary\Forforeachloops\obj\Debug\Forforeachloops.pdb

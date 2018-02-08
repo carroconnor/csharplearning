@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\Conversions\bin\Debug\Conversions.exe.config
+C:\DotNetProjects\CSharpLibrary\Conversions\bin\Debug\Conversions.exe
+C:\DotNetProjects\CSharpLibrary\Conversions\bin\Debug\Conversions.pdb
+C:\DotNetProjects\CSharpLibrary\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\Conversions\obj\Debug\Conversions.exe
+C:\DotNetProjects\CSharpLibrary\Conversions\obj\Debug\Conversions.pdb
+C:\DotNetProjects\CSharpLibrary\Conversions\obj\Debug\Conversions.csprojResolveAssemblyReference.cache

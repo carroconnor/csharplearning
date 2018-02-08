@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\NullableTypes\bin\Debug\NullableTypes.exe.config
+C:\DotNetProjects\CSharpLibrary\NullableTypes\bin\Debug\NullableTypes.exe
+C:\DotNetProjects\CSharpLibrary\NullableTypes\bin\Debug\NullableTypes.pdb
+C:\DotNetProjects\CSharpLibrary\NullableTypes\obj\Debug\NullableTypes.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\NullableTypes\obj\Debug\NullableTypes.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\NullableTypes\obj\Debug\NullableTypes.exe
+C:\DotNetProjects\CSharpLibrary\NullableTypes\obj\Debug\NullableTypes.pdb

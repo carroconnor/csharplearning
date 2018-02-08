@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\DotNetProjects\CSharpLibrary\WhileLoop\bin\Debug\WhileLoop.exe
+C:\DotNetProjects\CSharpLibrary\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\DotNetProjects\CSharpLibrary\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\WhileLoop\obj\Debug\WhileLoop.exe
+C:\DotNetProjects\CSharpLibrary\WhileLoop\obj\Debug\WhileLoop.pdb

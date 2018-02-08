@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\IfStatement\bin\Debug\IfStatement.exe.config
+C:\DotNetProjects\CSharpLibrary\IfStatement\bin\Debug\IfStatement.exe
+C:\DotNetProjects\CSharpLibrary\IfStatement\bin\Debug\IfStatement.pdb
+C:\DotNetProjects\CSharpLibrary\IfStatement\obj\Debug\IfStatement.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\IfStatement\obj\Debug\IfStatement.exe
+C:\DotNetProjects\CSharpLibrary\IfStatement\obj\Debug\IfStatement.pdb

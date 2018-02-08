@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\StringType\bin\Debug\StringType.exe.config
+C:\DotNetProjects\CSharpLibrary\StringType\bin\Debug\StringType.exe
+C:\DotNetProjects\CSharpLibrary\StringType\bin\Debug\StringType.pdb
+C:\DotNetProjects\CSharpLibrary\StringType\obj\Debug\StringType.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\StringType\obj\Debug\StringType.exe
+C:\DotNetProjects\CSharpLibrary\StringType\obj\Debug\StringType.pdb
